@@ -6,5 +6,5 @@ I believe that creating little scripts to play with those basic commands will he
 I plan on writting on every new language I learn. So far, there's only Ruby (started learning a couple of days ago).<br>
 If you're interested in my notes on programming languages I learn, check my [KeepNote repo](https://github.com/bored-user/KeepNote) out!
 
-Stay safe, stay curious.
+Stay safe, stay curious.<br>
 Happy coding!
